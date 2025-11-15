@@ -1,3 +1,3 @@
-## This is SwapArc 👋
+## This is SwapArc 💻
 
 Vision. Build. Ship.
